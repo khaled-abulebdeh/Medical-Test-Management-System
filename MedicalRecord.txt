@@ -1,0 +1,15 @@
+1220187: LDL, 2024-01, 80, mg/dl, pending
+1300511: BGT, 2024-03, 250, mg/dL, pending
+1220187: BGT, 2020-03, 400, mg/dL, pending
+1220187: systole, 2022-08, 130, mm Hg, pending
+1220187: diastole, 2021-01, 70, mm Hg, reviewed
+1220187: BGT, 2024-03, 100, mg/dL, pending
+1220187: systole, 2018-08, 110, mm Hg, pending
+1220187: diastole, 2020-01, 320, mm Hg, reviewed
+1220187: LDL, 1900-09, 200, mg/dl, pending
+1220187: Hgb, 2023-09, 17.3, mg/dl, pending
+1220187: Hgb, 2023-07, 15, mg/dl, pending
+1220187: BGT, 2020-07, 700, mg/dL, pending
+1220187: BGT, 2023-05, 10, mg/dL, pending
+0000000: Hgb, 2020-02, 10, g/dL, pending
+1000000: Hgb, 2020-09, 0, g/dL, pending
